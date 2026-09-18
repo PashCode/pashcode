@@ -37,8 +37,6 @@ Four difficulty levels, a timer, sounds, and results saved in localStorage.
 - **Backend and cloud** — Firebase (Auth, Firestore, Cloud Functions), REST APIs
 - **Tools** — Git, Vite, ESLint, Prettier
 
----
-
 ## 🤳 Contact
 
 [LinkedIn](https://www.linkedin.com/in/pashcode/) · [Telegram](https://t.me/pashcode) · y.pashcode@gmail.com
