@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Yevhenii 🙂
 
-<!--
-**PashCode/pashcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer from Sumy, Ukraine. I work with React and TypeScript.
 
-Here are some ideas to get you started:
+Before programming I ran two small companies — a business education center and a small
+manufacturing business. I hired people, managed teams and sold products. Then I switched to code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently finishing a BSc in Informatics and looking for a full-time remote frontend role.
+
+---
+
+## 📁 Projects
+
+### ▫️ Lingario — English vocabulary app
+
+Learning new words is easy, but remembering them is hard. Lingario tracks each word, brings
+it back right before you forget it, and uses AI to write examples.
+
+The shared list of 3,000 words is cached in localStorage, so the app does not read it from
+Firestore again. Each user's word scores sync through Firestore, so progress follows the user
+across devices.
+
+`React` `TypeScript` `Redux Toolkit` `React Router` `Tailwind CSS` `Firebase`
+
+**[Open the app →](https://lingario.app)**
+
+
+### ▫️ Calm Pairs — memory card game
+
+A memory-matching game in plain TypeScript, with no frameworks, working directly with the DOM.
+Four difficulty levels, a timer, sounds, and results saved in localStorage.
+
+`TypeScript` `Sass` `Vite`
+
+**[Play it →](https://pashcode.github.io/calm-pairs/)**
+
+---
+
+## 🛠 Stack
+
+- **Languages** — TypeScript, JavaScript
+- **Frontend** — React, React Router, HTML, CSS, Sass
+- **State** — Redux Toolkit
+- **Styling** — Tailwind CSS, Sass
+- **Backend and cloud** — Firebase (Auth, Firestore, Cloud Functions), REST APIs
+- **Tools** — Git, Vite, ESLint, Prettier
+
+---
+
+## 🤳 Contact
+
+[LinkedIn](https://www.linkedin.com/in/pashcode/) · [Telegram](https://t.me/pashcode) · y.pashcode@gmail.com
