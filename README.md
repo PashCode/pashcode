@@ -7,8 +7,6 @@ manufacturing business. I hired people, managed teams and sold products. Then I 
 
 Currently finishing a BSc in Informatics and looking for a full-time remote frontend role.
 
----
-
 ## 📁 Projects
 
 ### ▫️ Lingario — English vocabulary app
