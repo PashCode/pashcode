@@ -3,9 +3,8 @@
 Frontend developer from Sumy, Ukraine. I work with React and TypeScript.
 
 Before programming I ran two small companies — a business education center and a small
-manufacturing business. I hired people, managed teams and sold products. Then I switched to code.
-
-Currently finishing a BSc in Informatics and looking for a full-time remote frontend role.
+manufacturing business. Then I switched to code. Currently finishing a BSc in Informatics
+and looking for a full-time remote frontend role.
 
 ## 📁 Projects
 
