@@ -11,12 +11,9 @@ Currently finishing a BSc in Informatics and looking for a full-time remote fron
 
 ### ▫️ Lingario — English vocabulary app
 
-Learning new words is easy, but remembering them is hard. Lingario tracks each word, brings
-it back right before you forget it, and uses AI to write examples.
-
-The shared list of 3,000 words is cached in localStorage, so the app does not read it from
-Firestore again. Each user's word scores sync through Firestore, so progress follows the user
-across devices.
+Learning new words is easy, but remembering them is hard. Lingario tracks each word and brings
+it back right before you forget it. The shared 3,000-word list is cached in localStorage, and
+each user's progress syncs through Firestore across devices.
 
 `React` `TypeScript` `Redux Toolkit` `React Router` `Tailwind CSS` `Firebase`
 
@@ -31,8 +28,6 @@ Four difficulty levels, a timer, sounds, and results saved in localStorage.
 `TypeScript` `Sass` `Vite`
 
 **[Play it →](https://pashcode.github.io/calm-pairs/)**
-
----
 
 ## 🛠 Stack
 
