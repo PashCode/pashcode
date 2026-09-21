@@ -31,11 +31,11 @@ Four difficulty levels, a timer, sounds, and results saved in localStorage.
 ## 🛠 Stack
 
 - **Languages** — TypeScript, JavaScript
-- **Frontend** — React, React Router, HTML, CSS, Sass
-- **State** — Redux Toolkit
-- **Styling** — Tailwind CSS, Sass
-- **Backend and cloud** — Firebase (Auth, Firestore, Cloud Functions), REST APIs
-- **Tools** — Git, Vite, ESLint, Prettier
+- **Frameworks** — React, React Router, Redux Toolkit
+- **Markup and styling:** — HTML, CSS, Sass, Tailwind CSS
+- **Backend & Cloud:** — Firebase (Auth, Firestore, Cloud Functions), REST API
+- **APIs** — Gemini API, Google Cloud TTS
+- **Developer Tools:** — Git, GitHub, Vite, ESLint, Prettier
 
 ## 🤳 Contact
 
