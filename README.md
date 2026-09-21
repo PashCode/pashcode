@@ -1,7 +1,5 @@
 # Hi, I'm Yevhenii 🙂
 
-Frontend developer from Sumy, Ukraine. I work with React and TypeScript.
-
 Frontend developer (React, TypeScript), previously co-founder of two companies. Built and launched my own app for
 learning English and use it daily myself. Currently completing a BSc in Informatics, available for full-time remote work.
 
