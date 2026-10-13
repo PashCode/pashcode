@@ -6,8 +6,6 @@ Frontend developer (React, TypeScript) who builds features with the business res
 
 ### ▫️ Lingario — English vocabulary app
 
-### ▫️ Lingario — English vocabulary app
-
 Learning new words is easy, but remembering them is hard. I built Lingario for a local English school, and 20+ learners use it. It tracks each word with a custom spaced repetition algorithm and brings it back right before you forget it, and AI writes an example sentence for every word. Teachers save about 2 hours a week, because the built-in 3,000-word Oxford dictionary replaced their hand-made word lists. The dictionary opens in under 1s instead of 3s thanks to caching, and renders 9x faster with list virtualization.
 
 `React` `TypeScript` `Redux Toolkit` `React Router` `Tailwind CSS` `Firebase` `Gemini API`
