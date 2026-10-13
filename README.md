@@ -12,10 +12,6 @@ Learning new words is easy, but remembering them is hard. I built Lingario for a
 
 **[Open the app →](https://lingario.app)**
 
-`React` `TypeScript` `Redux Toolkit` `React Router` `Tailwind CSS` `Firebase` `Gemini API`
-
-**[Open the app →](https://lingario.app)**
-
 ### ▫️ Calm Pairs — memory card game
 
 A memory-matching game in plain TypeScript, with no frameworks, working directly with the DOM. Four difficulty levels, a timer, sounds, and results saved in localStorage. Scores 90+ in Lighthouse Performance.
